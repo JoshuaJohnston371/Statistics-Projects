@@ -3,7 +3,7 @@ The purpose of this repository is to showcase my experience with data science an
 The projects outlined in this repository include:
 * Models for Predicting Abalone Sex and Value using Discriminant Analysis in R
     - Here i provide both the witten report and the R code
-* Mining IBM Customer Churn Data using
+* Mining IBM Customer Churn Data
     - In this project i investigated the IBM customer churn dataset in order to find predictors or customer churn and build models to help aid in creating a customer retention program.
 * Sentiment Analysis LSTM recurrent Neural Networks
     - Built and performed a sentiment analysis using an LSTM recurrent NN based on a data set of restaurant reviews.
